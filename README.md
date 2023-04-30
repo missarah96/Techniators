@@ -37,7 +37,7 @@ Clone the repository: git clone https://github.com/UBC-MDS/Techniators.git
 
 Install the required packages: ```pip install -r requirements.txt```
 
-Start the app: ```streamlit run stream_app.py```
+Start the app: ```streamlit run streamlit_app.py```
 
 ### Docker
 
