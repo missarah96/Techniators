@@ -65,7 +65,7 @@ Once the app is running, you can:
 
 ## Contributing
 
-Team Members: Sarah Abdelazim, Lisa Sequeira, Caesar Wong
+Team Members: [Sarah Abdelazim](https://github.com/missarah96), [Lisa Sequeira](https://github.com/LisaSeq), [Caesar Wong](https://github.com/caesarw0)
 
 If you'd like to contribute to the Techniators - Fake News Detector application, follow these steps:
 
