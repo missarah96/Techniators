@@ -12,5 +12,5 @@ tqdm
 nltk
 wordcloud
 yellowbrick
-PIL
+Pillow
 datetime
