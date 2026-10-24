@@ -39,6 +39,8 @@ Install the required packages: ```pip install -r requirements.txt```
 
 Start the app: ```streamlit run streamlit_app.py```
 
+The requirements pin NumPy to 1.26.4 to keep it compatible with the app's scikit-learn 1.1.3 model/runtime.
+
 ### Docker
 
 To install and deploy the app on docker, follow these steps:
