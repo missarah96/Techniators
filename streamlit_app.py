@@ -45,7 +45,7 @@ bucket_name = 'techniators-bucket'
 # ==============================
 
 # reference function for data loading
-@st.cache
+@st.cache_data
 def load_data():
     real = pd.read_csv('https://media.githubusercontent.com/media/caesarw0/news-dataset/main/data/raw_data/True.csv')
     fake = pd.read_csv('https://media.githubusercontent.com/media/caesarw0/news-dataset/main/data/raw_data/Fake.csv')
